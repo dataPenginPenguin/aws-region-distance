@@ -1,0 +1,40 @@
+{
+  "us-east-2":   { "name": "Ohio",          "lat": 40.4173, "lon": -82.9071 },
+  "us-east-1":   { "name": "N. Virginia",   "lat": 38.0336, "lon": -78.5080 },
+  "us-west-1":   { "name": "N. California", "lat": 37.7749, "lon": -122.4194 },
+  "us-west-2":   { "name": "Oregon",        "lat": 45.5152, "lon": -122.6784 },
+
+  "af-south-1":  { "name": "Cape Town",     "lat": -33.9249, "lon": 18.4241 },
+
+  "ap-east-1":   { "name": "Hong Kong",     "lat": 22.3193, "lon": 114.1694 },
+  "ap-south-2":  { "name": "Hyderabad",     "lat": 17.3850, "lon": 78.4867 },
+  "ap-southeast-3": { "name": "Jakarta",    "lat": -6.2088, "lon": 106.8456 },
+  "ap-southeast-5": { "name": "Malaysia",   "lat": 3.1390, "lon": 101.6869 },
+  "ap-southeast-4": { "name": "Melbourne",  "lat": -37.8136, "lon": 144.9631 },
+  "ap-south-1":     { "name": "Mumbai",     "lat": 19.0760, "lon": 72.8777 },
+  "ap-southeast-6": { "name": "New Zealand","lat": -36.8485, "lon": 174.7633 },
+  "ap-northeast-3": { "name": "Osaka",      "lat": 34.6937, "lon": 135.5023 },
+  "ap-northeast-2": { "name": "Seoul",      "lat": 37.5665, "lon": 126.9780 },
+  "ap-southeast-1": { "name": "Singapore",  "lat": 1.3521, "lon": 103.8198 },
+  "ap-southeast-2": { "name": "Sydney",     "lat": -33.8688, "lon": 151.2093 },
+  "ap-northeast-1": { "name": "Tokyo",      "lat": 35.6895, "lon": 139.6917 },
+
+  "ca-central-1":  { "name": "Central",     "lat": 43.6532, "lon": -79.3832 },
+  "ca-west-1":     { "name": "West",        "lat": 51.0447, "lon": -114.0719 },
+
+  "eu-west-1":   { "name": "Ireland",       "lat": 53.3498, "lon": -6.2603 },
+  "eu-west-2":   { "name": "London",        "lat": 51.5074, "lon": -0.1278 },
+  "eu-west-3":   { "name": "Paris",         "lat": 48.8566, "lon": 2.3522 },
+  "eu-central-1": { "name": "Frankfurt",    "lat": 50.1109, "lon": 8.6821 },
+  "eu-central-2": { "name": "Zurich",       "lat": 47.3769, "lon": 8.5417 },
+  "eu-north-1":   { "name": "Stockholm",    "lat": 59.3293, "lon": 18.0686 },
+  "eu-south-1":   { "name": "Milan",        "lat": 45.4642, "lon": 9.1900 },
+  "eu-south-2":   { "name": "Spain",        "lat": 40.4168, "lon": -3.7038 },
+
+  "sa-east-1":   { "name": "São Paulo",     "lat": -23.5505, "lon": -46.6333 },
+
+  "me-central-1": { "name": "UAE",           "lat": 25.2048, "lon": 55.2708 },
+  "me-south-1":   { "name": "Bahrain",       "lat": 26.0667, "lon": 50.5577 },
+
+  "il-central-1": { "name": "Tel Aviv",      "lat": 32.0853, "lon": 34.7818 }
+}
